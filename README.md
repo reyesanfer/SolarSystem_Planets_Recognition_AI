@@ -11,3 +11,4 @@ The Data augmentation has been preformed with the full dataset and then with a p
 ## Authors :black_nib:
   - Fernando Sanfiel Reyes - [@reyesanfer](https://github.com/reyesanfer)
   - Sara Expósito Suárez - [@SaraE5](https://github.com/SaraE5)
+Base code provided by [Cayetano Guerra Artal](https://cayetanoguerra.github.io/ia/)
